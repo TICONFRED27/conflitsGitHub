@@ -1,3 +1,4 @@
+"LOCAL"
 # conflitsGitHub
 challenge git/github
 essai challenge conflits github wild code school
